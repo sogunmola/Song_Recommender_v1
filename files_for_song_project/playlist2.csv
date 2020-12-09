@@ -1,0 +1,74 @@
+Index,URL,Artist Name,Track Name,Release Date,Danceability,Energy,Key,Loudness,Mode,Speechiness,Accousticness,Instrumentalness,Liveness,Valence,Tempo,Duration MS,Time Signature
+1,https://open.spotify.com/track/7lJtRbSmuXwzoeFbtrYHzr,Omah Lay,Can't Relate,2020-11-20,0.642,0.479,3,-8.027,0,0.276,0.295,2.89e-05,0.143,0.398,101.825,183641,4
+2,https://open.spotify.com/track/3ewnXMFcLUCoYkWvxsUA5K,Cashh,Wag1 (feat. WSTRN),2020-07-22,0.781,0.678,1,-4.361,0,0.145,0.273,0,0.173,0.704,105.048,203429,4
+3,https://open.spotify.com/track/5v7Xw46buqlICC6vsJgsLw,Jujuboy Star,I Dey There,2020-11-20,0.878,0.77,0,-4.206,1,0.121,0.0519,0.00303,0.116,0.801,104.999,188732,4
+4,https://open.spotify.com/track/0LaWpOpruJVwVBhe4oJloZ,KDDO,eWallet (feat. Cassper Nyovest),2020-05-29,0.808,0.558,3,-9.203,0,0.047,0.113,2.32e-06,0.111,0.76,115.036,173223,4
+5,https://open.spotify.com/track/0NqqHYr6gzAOwBZfh40wn2,Yemi Alade,Temptation,2020-11-20,0.781,0.744,9,-5.539,0,0.214,0.121,0,0.357,0.694,107.1,206438,4
+6,https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ,DaVido,The Best (feat. Mayorkun),2020-11-12,0.793,0.858,3,-5.2,1,0.0466,0.252,0.000331,0.353,0.637,115.975,171724,4
+7,https://open.spotify.com/track/0Eq1YipYrFdRzPKT8y7iOC,Lil Kesh,Love Like This (feat. Fireboy DML),2020-11-19,0.801,0.75,8,-3.991,1,0.0816,0.0898,9.56e-05,0.0801,0.393,101.97,193067,4
+8,https://open.spotify.com/track/1V9weUxTGcNlzsBbJbh0W1,Keke Palmer,Want Me to Be,2020-11-20,0.75,0.646,0,-5.692,0,0.0664,0.705,0,0.145,0.446,92.926,189677,4
+9,https://open.spotify.com/track/7iZVBT6LV32t4l00p73VAw,Aya Nakamura,Plus Jamais (feat. Stormzy),2020-11-13,0.605,0.419,1,-9.032,1,0.0342,0.373,0,0.128,0.291,152.161,175257,4
+10,https://open.spotify.com/track/6RZ1UA7KZqoEJe8kkd1g5i,Manu WorldStar,Choko (Part 2) (feat. ANATII),2020-09-04,0.731,0.631,11,-8.197,0,0.264,0.0291,0,0.0871,0.284,100.025,218370,4
+11,https://open.spotify.com/track/0vIhdRlCdxfwER3CxEuHxn,Kelvyn Boy,Best Friend,2020-11-06,0.575,0.747,1,-6.101,0,0.136,0.141,3.39e-06,0.396,0.795,99.576,198193,4
+12,https://open.spotify.com/track/44E17AubfoMCwJOQduEx3C,DarkoVibes,Inna Song (Gin & Lime),2020-04-03,0.719,0.551,7,-8.158,1,0.0708,0.37,0,0.0856,0.559,101.913,245735,4
+13,https://open.spotify.com/track/0rl5IsgPdYePNorHS9OpnS,Ghita,Real Lies (feat. CKay),2020-11-06,0.723,0.671,1,-5.413,0,0.0315,0.194,2.07e-05,0.129,0.464,100.006,218702,4
+14,https://open.spotify.com/track/67v8sJahGpGpx6g4X3eYfM,Yxng Bane,"Maximum - Remix, feat. K27",2019-11-29,0.511,0.745,9,-3.551,1,0.182,0.0716,0,0.0902,0.558,106.69,150577,4
+15,https://open.spotify.com/track/3uVFCncwNXtYObp97lkkp0,Dopebwoy,Wine Pon Mi,2020-10-30,0.791,0.672,6,-6.499,0,0.0931,0.0841,0.000242,0.337,0.377,100.089,196041,4
+16,https://open.spotify.com/track/6orlLgRqOjvs4TLm2DEOYM,Harmonize,Ushamba,2020-10-31,0.871,0.83,11,-5.589,0,0.326,0.309,0,0.13,0.843,117.987,197265,4
+17,https://open.spotify.com/track/0bhu6iVgPQRexOto8Uepv8,WurlD,BOSSY,2020-11-20,0.716,0.68,11,-5.548,0,0.168,0.369,6.07e-06,0.243,0.592,97.096,225373,4
+18,https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO,Tekno,Enjoy,2020-11-19,0.925,0.877,8,-2.849,1,0.0687,0.188,0.000132,0.081,0.912,114.063,136848,4
+19,https://open.spotify.com/track/63nBx0NMIyLr58DEKOEdg9,Aluna,The Recipe (feat. Rema),2020-08-28,0.798,0.873,10,-3.561,0,0.0818,0.0641,0.000138,0.0762,0.522,108.014,202012,4
+20,https://open.spotify.com/track/4fRLdKddgF9HlNqOqLAUWl,Octavian,Famous,2020-08-27,0.838,0.624,1,-5.674,0,0.047,0.147,1.88e-05,0.105,0.52,109.998,204301,4
+21,https://open.spotify.com/track/4LHHZTgfXTJKvsV1pdDnJe,House of Miagi,Before You Go,2020-11-20,0.806,0.47,5,-8.967,0,0.0551,0.62,3.41e-05,0.225,0.703,94.027,168511,4
+22,https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5,Manny Norté,4AM,2020-03-19,0.735,0.801,11,-6.742,0,0.0636,0.00772,5.6e-05,0.258,0.867,104.998,225147,4
+23,https://open.spotify.com/track/6dNn6jy8Zd9ZaMm1cclVSK,SouthBoy Mfb,Tendency,2020-07-30,0.775,0.633,4,-6.52,0,0.151,0.55,1.17e-05,0.128,0.464,95.023,169666,4
+24,https://open.spotify.com/track/4204hwPYuToiuSunPFUoML,WizKid,True Love (feat. Tay Iwar & Projexx),2020-10-29,0.85,0.542,4,-3.602,0,0.167,0.229,4.9e-05,0.079,0.622,119.747,247333,5
+25,https://open.spotify.com/track/4bjIb86XioJUc5wZeFtxaz,Agho,Smooth MF,2020-07-17,0.893,0.499,4,-8.338,0,0.0933,0.729,0.0323,0.106,0.785,105.016,187867,4
+26,https://open.spotify.com/track/35IXgBUv1yKUELU9TaQ59m,Nizzy,Midnight,2019-11-09,0.672,0.531,0,-8.549,0,0.0668,0.608,0.0576,0.0905,0.622,169.942,197695,4
+27,https://open.spotify.com/track/1xmS9tBTRbyu44F9mK9ql9,Adekunle Gold,Firewood,2020-08-21,0.731,0.772,1,-4.43,0,0.0694,0.149,5.26e-05,0.133,0.772,101.965,185546,4
+28,https://open.spotify.com/track/432YTbQ5U5vhnstuV0Nbzl,Preme,Comfortable (feat. Davido),2020-10-16,0.638,0.629,11,-5.959,1,0.0946,0.19,4.44e-05,0.131,0.386,99.821,192120,4
+29,https://open.spotify.com/track/2VJqkgT3ZrR7gB7wW0sj3D,Reekado Banks,You Dey Mad,2020-11-20,0.521,0.552,7,-5.998,1,0.375,0.44,3.83e-05,0.142,0.895,191.435,152773,4
+30,https://open.spotify.com/track/5L5R0kAypxmg3f0VXOzTYs,DJ Flex,Fever,2020-11-23,0.813,0.551,10,-6.838,0,0.0447,0.122,0.000924,0.0859,0.669,118.036,179047,4
+31,https://open.spotify.com/track/1M3o5Csb5tl0WzxpQkS14z,NonyKingz,Ginger Me,2020-11-23,0.879,0.536,9,-5.038,0,0.0498,0.278,0.000372,0.0913,0.722,105.062,192052,4
+32,https://open.spotify.com/track/1KHcBuRnFSEEPVSnPIF8mL,Cuppy,Feel Good,2020-08-21,0.817,0.838,0,-4.974,1,0.102,0.0167,0,0.148,0.575,111.01,160121,4
+33,https://open.spotify.com/track/4kvu71fF2CcpxoIYLKrbzT,Ceeza Milli,Based On What,2020-10-21,0.815,0.693,5,-5.698,0,0.383,0.218,0,0.117,0.582,125.07,203857,5
+34,https://open.spotify.com/track/5Rp0YGtCtKcPuvfoF0Xge8,Harmonize,Rumba,2020-03-14,0.744,0.819,4,-4.569,0,0.188,0.175,0,0.14,0.63,107.924,198230,4
+35,https://open.spotify.com/track/0TaLSyRoTEpdXA4tUtvwMI,Zarion Uti,Rain or Shine,2020-09-17,0.747,0.794,9,-6.353,0,0.0582,0.138,3.66e-06,0.613,0.78,104.999,175048,4
+36,https://open.spotify.com/track/4FyGxeYoubko6p8xTuvC7W,Kid AlpHa,Ecstasy,2020-10-08,0.768,0.659,4,-7.897,0,0.0634,0.000787,4.32e-05,0.109,0.526,113.985,194211,4
+37,https://open.spotify.com/track/77MLE0qgkzr0FWIF5H0ses,SKN,RUMBA,2020-07-10,0.644,0.702,2,-5.777,0,0.12,0.123,4.03e-05,0.121,0.937,205.707,153786,1
+38,https://open.spotify.com/track/6X1CcMfOWo8AvOBBD7iyGT,Headie One,Princess Cuts (feat. Young T & Bugsey),2020-10-08,0.763,0.596,1,-6.668,0,0.278,0.179,0,0.0528,0.871,105.088,185067,4
+39,https://open.spotify.com/track/4izeyoEFklH7IrWNGdLAKK,1da Banton,Same Girl,2020-10-09,0.51,0.918,9,-4.292,0,0.0565,0.0266,0.000642,0.0746,0.503,199.916,190915,4
+40,https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6,DaVido,Shopping Spree (feat. Chris Brown & Young Thug),2020-11-12,0.489,0.646,6,-6.365,1,0.229,0.163,0,0.107,0.384,69.011,213892,3
+41,https://open.spotify.com/track/3VhBvXigEx9d5shdqkf0MB,Nnyasha,Got Away,2020-09-11,0.73,0.565,11,-6.532,1,0.0895,0.0986,0,0.279,0.339,99.039,158509,4
+42,https://open.spotify.com/track/4bkSCpfC7Bn5AiUaoM8bfM,DARKBOAT,UBER BLACK,2020-06-19,0.804,0.53,9,-8.044,1,0.0898,0.36,0.0724,0.0812,0.485,103.993,188718,4
+43,https://open.spotify.com/track/1PSO8CqforhdQq07t8P4wr,Tory Lanez,Things I Should Of Said,2020-09-25,0.833,0.57,1,-9.561,1,0.0595,0.00566,1.94e-06,0.119,0.337,117.955,158977,4
+44,https://open.spotify.com/track/1JZy8bUCpNFegv0UpsCwOI,Chimzy,Tornado,2020-10-09,0.821,0.548,1,-10.837,0,0.107,0.527,5.04e-05,0.103,0.845,109.972,139704,4
+45,https://open.spotify.com/track/0S8RofTnTxIkL8nPwXfS38,Eugy,Forever,2020-08-09,0.605,0.559,3,-8.173,0,0.281,0.116,0.000182,0.298,0.826,65.231,145882,3
+46,https://open.spotify.com/track/26OI9wLnEARuSaZkpfu0bO,J Maina,We Move,2020-07-31,0.628,0.687,7,-7.161,0,0.195,0.0528,0,0.099,0.497,121.014,170272,5
+47,https://open.spotify.com/track/7kQEXiMZ8rSK74Gi5M6qlh,Yxng Bane,Cut Me Off (feat. D-Block Europe),2020-11-12,0.806,0.769,6,-5.127,0,0.111,0.158,2.25e-05,0.0824,0.478,104.981,228837,4
+48,https://open.spotify.com/track/4BcZgKDNU8WhuVqGT25106,D. Policy,Greedy,2020-11-13,0.782,0.783,7,-5.634,1,0.106,0.529,0.000278,0.114,0.753,115.92,184973,4
+49,https://open.spotify.com/track/6XfXSg8NE8kQAbzxCiNhE5,Homebased,Lojosi,2020-10-23,0.5,0.558,7,-5.761,0,0.109,0.787,8.36e-05,0.124,0.676,90.697,209345,4
+50,https://open.spotify.com/track/1SIwGDAuMF24QCiDUhaCSv,Wayne J,Young Boss - Remix,2020-07-24,0.723,0.728,7,-5.402,0,0.162,0.195,0,0.452,0.779,97.085,169633,4
+51,https://open.spotify.com/track/45vxLycdxPlmBybrAOHdNH,Omah Lay,My Bebe,2020-11-20,0.844,0.704,6,-6.854,1,0.106,0.0791,0.571,0.0688,0.871,99.999,153892,4
+52,https://open.spotify.com/track/5zNeerCsXHJCG2fGGPltkV,Marllie,Body,2020-09-13,0.767,0.531,4,-8.421,0,0.411,0.709,9.91e-06,0.0641,0.419,94.952,213055,4
+53,https://open.spotify.com/track/62GtjzfuDrN7t2sE78WIee,WurlD,LOVE NOBODY,2020-11-20,0.852,0.715,5,-4.979,0,0.0628,0.321,0.00344,0.0909,0.63,122.965,210827,4
+54,https://open.spotify.com/track/6VZk5hr2E3ZTm3ui0bMvyh,Mike Gmni,LONELY,2020-10-30,0.837,0.594,7,-7.495,0,0.136,0.383,0.00886,0.0941,0.632,97.001,88503,4
+55,https://open.spotify.com/track/3dXcLgsyZOuKpdQd0VA1Fl,Bella Shmurda,Vision 2020,2020-01-27,0.665,0.86,1,-1.876,0,0.344,0.19,0,0.185,0.706,139.308,221928,5
+56,https://open.spotify.com/track/1cH8NrwMXJxcCow3DkO2Sj,Larry Gaaga,Slow Burner,2020-08-25,0.809,0.526,0,-6.132,1,0.0915,0.393,0.489,0.104,0.484,105.001,194286,4
+57,https://open.spotify.com/track/6Q9gB8OpyQMa259Bobi379,DOLV GVNG,Down on You,2020-11-06,0.678,0.588,8,-6.711,0,0.0434,0.321,0.0072,0.109,0.309,129.155,190515,5
+58,https://open.spotify.com/track/6ASfW6UMYtG64E3KH2jvOK,Eraddo,My Rules,2020-11-13,0.779,0.717,4,-10.504,0,0.324,0.694,0.177,0.148,0.464,120.077,152816,4
+59,https://open.spotify.com/track/7xvnT6sGlbD6D1JJoMtWbK,Twitch 4EVA,Chaskele,2020-08-07,0.496,0.567,9,-7.564,0,0.116,0.0899,0,0.124,0.418,64.725,159080,5
+60,https://open.spotify.com/track/7oTqDba8VGNiqwPreAxM8H,Fiokee,Osan,2020-01-10,0.791,0.695,8,-2.775,1,0.054,0.253,2.47e-05,0.0825,0.766,106.499,185130,4
+61,https://open.spotify.com/track/5fIynQNdXenPqXRkdVnPj6,Diamond Platnumz,Haunisumbui,2020-10-09,0.665,0.778,8,-3.964,0,0.356,0.599,1.95e-06,0.162,0.691,101.645,200647,4
+62,https://open.spotify.com/track/3vnuvLBVlTPHmMdiYZtgmT,dndSection,Darling (feat. Chrystel),2020-05-13,0.672,0.741,8,-4.688,1,0.129,0.0116,2.18e-06,0.156,0.435,96.139,162500,4
+63,https://open.spotify.com/track/3CSnLGhMLAxaLySdX4Y6I8,Jhehlah,Kompany,2020-11-13,0.804,0.641,1,-4.39,0,0.0396,0.386,0.000685,0.0783,0.889,107.942,200556,4
+64,https://open.spotify.com/track/6PFRctRRUqRpUGsjCZLBQs,Ghetto Boy,Yesterday,2020-11-06,0.613,0.638,10,-6.532,0,0.244,0.316,0.000176,0.111,0.76,101.685,204231,4
+65,https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx,WizKid,Blessed (feat. Damian Marley),2020-10-29,0.612,0.651,1,-6.974,0,0.281,0.0864,0,0.368,0.902,90.272,262973,4
+66,https://open.spotify.com/track/161Ih8tWd9vqYg7yc4NEP2,Siki,Ride Or Die,2020-11-05,0.807,0.596,9,-4.75,1,0.0738,0.0718,0.0622,0.0879,0.653,98.001,149211,4
+67,https://open.spotify.com/track/75DRwp3HWawg6Lse3cal8k,DJ Tunez,Differently,2020-09-04,0.798,0.412,5,-7.023,0,0.355,0.83,0.000141,0.108,0.51,128.121,180013,5
+68,https://open.spotify.com/track/26NKhkfK7kjELFpSb3QjJL,Dadju,Danger,2020-10-30,0.778,0.636,2,-7.895,0,0.255,0.387,1.73e-06,0.0834,0.58,99.94,199893,4
+69,https://open.spotify.com/track/4MRx8q06v72yA9XLUC8CeU,TIEM,Just Tonight,2020-04-17,0.656,0.576,5,-9.304,1,0.0667,0.235,0,0.118,0.601,95.985,206028,4
+70,https://open.spotify.com/track/49IzWufYtbt3tgUN8ORNe0,Aya Nakamura,Préféré (feat. OBOY),2020-11-13,0.758,0.74,0,-7.467,1,0.0925,0.0175,0,0.0601,0.631,173.862,174107,4
+71,https://open.spotify.com/track/3uqpOOS3Lwyc7vl2G2nSco,Yxng Bane,Change Your Life (feat. Kojo Funds),2020-05-01,0.755,0.738,7,-6.354,1,0.0884,0.0232,0,0.104,0.517,96.025,201784,4
+72,https://open.spotify.com/track/6FuWagyvOErfJ7UnViYVlD,Yemi Alade,Deceive,2020-11-20,0.867,0.662,10,-4.043,0,0.0759,0.29,0,0.0958,0.848,107.966,207784,4
+73,https://open.spotify.com/track/3LHnFCVJdz28WrswGvraxm,Tvnoh,Deserve It,2020-11-17,0.723,0.693,11,-8.849,1,0.299,0.588,0,0.114,0.449,99.93,206449,4
